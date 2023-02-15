@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift UI**
 
-- 👯 I’m looking to find job **iOS Developer**
+- 👨‍💻 I’m looking to find job **iOS Developer**
 
 - 📫 How to reach me **abdelrhmanrafaat565@gmail.com**
 
