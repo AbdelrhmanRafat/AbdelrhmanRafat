@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abdelrhman Rafaat</h1>
 <h3 align="center">A passionate iOS developer from Egypt</h3>
 
-- 🔭 I’m currently working in **Leoni Egypt Software Engineer**
+- 🔭 I’m currently working on **Portfolio**
 
 - 🌱 I’m currently learning **Swift UI**
+
+- 👯 I’m looking to find job **iOS Developer**
 
 - 📫 How to reach me **abdelrhmanrafaat565@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdelrahman rafaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman rafaat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
