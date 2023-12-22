@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **.Net Core 8**
 
-- 👨‍💻 I’m looking to find new role as an [Backend Developer (.NET Core & SQL Server).](Backend Developer (.NET Core & SQL Server).)
-
 - 📫 How to reach me **abdelrhmanrafaat565@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
