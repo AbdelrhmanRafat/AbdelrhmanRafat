@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **abdelrhmanrafaat565@gmail.com**
 
+- 👨‍💻 I’m looking to find new role as an **Backend Developer (.NET Core & SQL Server).**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdelrhman-rafat-b88467141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrhman-rafat-b88467141" height="30" width="40" /></a>
